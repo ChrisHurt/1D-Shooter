@@ -34,7 +34,6 @@ This is an experimental one-dimensional shooter.
 Fun facts:
 * Game state is stored in a single string
 * The game logic is pure javascript, no libraries involved
-* Reason 3
 
 ### Built With
 * [JavaScript](https://www.javascript.com/)
