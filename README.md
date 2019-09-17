@@ -54,6 +54,8 @@ Fun facts:
 
 - Consider changing game state storage to array for easier mutation
 - Build more helper functions for managing game state and to aid in refactoring
+- Generalise game 'board' size
+- Pass all events through the tick handler for better consistency of event behaviours  
 
 <!-- LICENSE -->
 ## License
