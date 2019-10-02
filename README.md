@@ -46,6 +46,9 @@ Fun facts:
 3. Enjoy the game!
 
 
+## Application Demo
+Link: [https://chrishurt.herokuapp.com/1D-shooter](https://chrishurt.herokuapp.com/1D-shooter)
+
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -65,9 +68,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Chris Hurt - chrishcoding@gmail.com
-
-Project Link: [https://github.com/ChrisHurt/1D-Shooter](https://github.com/ChrisHurt/1D-Shooter)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
